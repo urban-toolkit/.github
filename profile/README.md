@@ -56,7 +56,7 @@ Explore more tools, studies, and publications on the [official website](https://
 - **Deep Umbra** – analysis of shadows in urban environments  
 - **tile2net** – street network extraction from satellite tiles  
 - **3D urban visual analytics survey** – [A Survey of Urban 3D Visualization](https://urbantk.org/survey-3d/)  
-- **Landscape of urban visualization tools** – [A Landscape of Urban Visualization Tools, Grammars, and Workflows (Computers & Graphics, 2024)](https://doi.org/10.1016/j.cag.2024.104013)
+- **Landscape of urban visualization tools** – [Assessing the landscape of toolkits, frameworks, and authoring tools for urban visual analytics systems](https://doi.org/10.1016/j.cag.2024.104013)
 
 These resources expand the scope of the Urban Toolkit beyond tools - into theory, research, and application.
 
