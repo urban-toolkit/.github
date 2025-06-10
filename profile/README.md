@@ -2,7 +2,7 @@
 
 A suite of open-source tools for urban visual analytics, collaborative workflows, and data sharing.
 
-🌐 Official Website: [https://urbantk.org](https://urbantk.org)
+Website: [https://urbantk.org](https://urbantk.org), Discord: [https://discord.gg/vjpSMSJR8r](https://discord.gg/vjpSMSJR8r)
 
 ---
 
@@ -40,11 +40,12 @@ A collection of open urban datasets useful for visualization and analysis.
 
 ---
 
-### [📚 Tutorial](https://github.com/urban-toolkit/tutorial)
-Materials from the SIBGRAPI 2023 tutorial on high-level visualization grammars, with hands-on examples using UTK and Vega-Lite.
+## 🧱 Foundational Work
 
-- Step-by-step guide for new users  
-- Companion notebooks and demos
+We build on research in urban visual analytics, with two key surveys that present core insights into the challenges, methods, and opportunities in the field.
+
+- **[A Survey of Urban 3D Visualization](https://urbantk.org/survey-3d/)** – An in-depth review of approaches, challenges, and applications in 3D urban visualization.  
+- **[Assessing the landscape of toolkits, frameworks, and authoring tools for urban visual analytics systems](https://doi.org/10.1016/j.cag.2024.104013)** – A comparative study of existing systems, informing the design goals and architecture of our tools.
 
 ---
 
@@ -52,13 +53,10 @@ Materials from the SIBGRAPI 2023 tutorial on high-level visualization grammars, 
 
 Explore more tools, studies, and publications on the [official website](https://urbantk.org), including:
 
-- **CitySurfaces** – real-time 3D urban data explorer  
-- **Deep Umbra** – analysis of shadows in urban environments  
-- **tile2net** – street network extraction from satellite tiles  
-- **3D urban visual analytics survey** – [A Survey of Urban 3D Visualization](https://urbantk.org/survey-3d/)  
-- **Landscape of urban visualization tools** – [Assessing the landscape of toolkits, frameworks, and authoring tools for urban visual analytics systems](https://doi.org/10.1016/j.cag.2024.104013)
-
-These resources expand the scope of the Urban Toolkit beyond tools - into theory, research, and application.
+- **CitySurfaces** – [https://github.com/VIDA-NYU/city-surfaces](https://github.com/VIDA-NYU/city-surfaces) computer vision model for sidewalk surface classification  
+- **Deep Umbra** – [https://urbantk.org/shadows/](https://urbantk.org/shadows/) – computation & analysis of shadows in urban environments  
+- **tile2net** – [https://github.com/VIDA-NYU/tile2net](https://github.com/VIDA-NYU/tile2net) – street network extraction from satellite tiles
+- **Tutorial** – [SIBGRAPI 2023 tutorial on high-level visualization grammars](https://github.com/urban-toolkit/tutorial), with companion notebooks and demos  
 
 
 ## 📄 License
@@ -69,4 +67,4 @@ All Urban Toolkit projects are MIT licensed. Use freely in academic or commercia
 
 Supported by NSF, Discovery Partners Institute (DPI), and Illinois DOT.
 
-Questions? Visit [urbantk.org](https://urbantk.org) or open an issue in the appropriate repo.
+Questions? Visit [urbantk.org](https://urbantk.org), join [discord](https://discord.gg/vjpSMSJR8r) or open an issue in the appropriate repo.
