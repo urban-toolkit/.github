@@ -2,7 +2,7 @@
 
 A suite of open-source tools for urban visual analytics, collaborative workflows, and data sharing.
 
-Website: [https://urbantk.org](https://urbantk.org), Discord: [https://discord.gg/vjpSMSJR8r](https://discord.gg/vjpSMSJR8r)
+Website: [https://urbantk.org](https://urbantk.org), Discord: [https://discord.gg/ajT6wF8TmN](https://discord.gg/ajT6wF8TmN)
 
 ---
 
