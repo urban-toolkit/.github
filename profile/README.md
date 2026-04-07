@@ -1,4 +1,4 @@
-# Urban Toolkit 🏙️
+# Urban Toolkit
 
 A suite of open-source tools for urban visual analytics, collaborative workflows, and data sharing.
 
