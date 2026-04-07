@@ -6,7 +6,7 @@ Website: [https://urbantk.org](https://urbantk.org), Discord: [https://discord.g
 
 ---
 
-## 🚀 Overview
+## Overview
 
 Urban Toolkit is an ecosystem of tools, frameworks, datasets, and materials that aim to simplify and accelerate urban data visualization and analysis. It enables researchers, experts, and developers to explore complex urban phenomena through high-level visual grammars, map-centric interactions, and curated datasets.
 
@@ -14,9 +14,9 @@ Visit our website for demos, documentation, and publications: [urbantk.org](http
 
 ---
 
-## 📂 Core Projects
+## Core Projects
 
-### [🔧 UTK](https://github.com/urban-toolkit/utk)
+### [UTK](https://github.com/urban-toolkit/utk)
 A grammar-based toolkit for building interactive web visualizations with 2D/3D urban maps. UTK supports layering of physical and thematic datasets and enables intuitive composition using a "knots" visual grammar system.
 
 - Support for OpenStreetMap and custom geospatial data  
@@ -24,7 +24,7 @@ A grammar-based toolkit for building interactive web visualizations with 2D/3D u
 
 ---
 
-### [🔄 Curio](https://github.com/urban-toolkit/curio)
+### [Curio](https://github.com/urban-toolkit/curio)
 A provenance-aware dataflow framework that tracks the evolution of visualizations and supports collaborative workflows. Curio works across abstraction levels: code, visual grammar, and GUI.
 
 - Designed for reproducibility and collaboration  
@@ -32,7 +32,7 @@ A provenance-aware dataflow framework that tracks the evolution of visualization
 
 ---
 
-### [📊 Awesome Urban Datasets](https://github.com/urban-toolkit/awesome-urban-datasets)
+### [Awesome Urban Datasets](https://github.com/urban-toolkit/awesome-urban-datasets)
 A collection of open urban datasets useful for visualization and analysis.
 
 - Topics include: sunlight, flooding, air quality, urban morphology, and more  
@@ -40,7 +40,7 @@ A collection of open urban datasets useful for visualization and analysis.
 
 ---
 
-## 🧱 Foundational Work
+## Foundational Work
 
 We build on research in urban visual analytics, with two key surveys that present core insights into the challenges, methods, and opportunities in the field.
 
@@ -49,7 +49,7 @@ We build on research in urban visual analytics, with two key surveys that presen
 
 ---
 
-## 📁 Additional Resources
+## Additional Resources
 
 Explore more tools, studies, and publications on the [official website](https://urbantk.org), including:
 
@@ -59,7 +59,7 @@ Explore more tools, studies, and publications on the [official website](https://
 - **Tutorial** – [SIBGRAPI 2023 tutorial on high-level visualization grammars](https://github.com/urban-toolkit/tutorial), with companion notebooks and demos  
 
 
-## 📄 License
+## License
 
 All Urban Toolkit projects are MIT licensed. Use freely in academic or commercial projects.
 
