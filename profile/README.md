@@ -16,8 +16,8 @@ Visit our website for demos, documentation, and publications: [urbantk.org](http
 
 ## Core Projects
 
-### [UTK](https://github.com/urban-toolkit/utk)
-A grammar-based toolkit for building interactive web visualizations with 2D/3D urban maps. UTK supports layering of physical and thematic datasets and enables intuitive composition using a "knots" visual grammar system.
+### [Autark](https://github.com/urban-toolkit/autark)
+A modular and serverless toolkit built in TypeScript to streamline the implementation and deployment of urban visual analytics systems.
 
 - Support for OpenStreetMap and custom geospatial data  
 - Scene composition using declarative specs
